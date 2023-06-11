@@ -1,4 +1,4 @@
-![logo](./public/1665899690215.jpeg)
+![logo](https://github.com/gavutham/gavutham/blob/main/1665899690215.jpeg)
 
 <h1 align="center">Hola 👋, this is Gavutham</h1>
 <h3 align="center">An adult who jus forges some Full Stack Web Applications and Mobile Applications</h3>
